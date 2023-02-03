@@ -1,0 +1,38 @@
+#hmenu{
+    background-color: black;
+    color: white;
+    text-align: end;
+}
+
+#hlogo{
+    font-size: 50px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+
+#directory{
+    background-color: #FFD700;
+    text-align: left;
+}
+
+.news{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.hseparator{
+    color: #FFD700;
+}
+
+p{
+    text-indent: 2ch;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
